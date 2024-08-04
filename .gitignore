@@ -1,0 +1,2 @@
+# Skip python venv folder for github
+venv/

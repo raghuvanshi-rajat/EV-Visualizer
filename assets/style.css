@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+}
+
+h1 {
+  text-align: center;
+  color: #2c3e50;
+}
+
+.container {
+  width: 90%;
+  margin: auto;
+  padding: 20px;
+}
+
+.dropdown-label {
+  font-weight: bold;
+  margin-top: 20px;
+  color: #34495e;
+}
+
+.graph-container {
+  margin-top: 40px;
+}
+
+.graph-title {
+  text-align: center;
+  color: #2c3e50;
+}
